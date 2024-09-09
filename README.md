@@ -49,7 +49,6 @@ A function is provided for predicting the class of new tweets:
 - **Preprocessing**: The input is preprocessed in the same way as the training data (cleaning, vectorization).
 - **Prediction**: The decision tree classifier predicts whether the tweet is hate speech, offensive, or neutral.
 
-
 ## Technologies Used
 - Python
 - Scikit-learn
